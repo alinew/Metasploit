@@ -28,7 +28,7 @@
 
 ( 支持尝试提权，默认随机8位密码，用户不能设置Guest，应用RID劫持技术)
 
-![clone_user](./imgs/clone_user.gif)
+![clone_user](./imgs/Clone_User.gif)
 
 ### unauthorized
 
